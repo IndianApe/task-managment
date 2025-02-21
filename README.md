@@ -18,20 +18,20 @@ This is a **real-time task management** app with **Gemini AI chat** integrated.
 
 
 2. Install dependencies:
+   ```bash
    npm install
  
 3. Add environment variables (.env.local):
-   
+     ```bash
      OPENAI_API_KEY=your_openai_api_key
 
    
 4.Start the development server:
+   ```bash
+      npm run dev
 
-npm run dev
 
 
 
-5.🚀 Deployment
-Deployed using Vercel
 
-vercel --prod
+
