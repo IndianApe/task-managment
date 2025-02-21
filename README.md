@@ -29,7 +29,22 @@ This is a **real-time task management** app with **Gemini AI chat** integrated.
 4.Start the development server:
    ```bash
       npm run dev
+```
 
+5. 🚀 Deployment
+Deployed using Vercel
+```bash
+vercel --prod
+ ```
+## Screenshoots:
+login page:
+![login](https://github.com/user-attachments/assets/e5622ecd-996a-4254-abe6-9d259bea0cd0)
+
+Dashboard:
+![dashboard](https://github.com/user-attachments/assets/4a99a968-0e77-472f-a582-ea0522072eda)
+
+HomePage:
+![home](https://github.com/user-attachments/assets/855cef10-c8d3-4fdb-97ba-dd09e9cea0a6)
 
 
 
